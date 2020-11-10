@@ -1,0 +1,23 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "project with mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaakyeHeneEmma/mongoDB.git"
+  },
+  "author": "daakye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaakyeHeneEmma/mongoDB/issues"
+  },
+  "homepage": "https://github.com/DaakyeHeneEmma/mongoDB#readme",
+  "dependencies": {
+    "mocha": "^8.2.1",
+    "mongoose": "^5.10.13"
+  }
+}
